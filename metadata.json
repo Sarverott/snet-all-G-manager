@@ -1,0 +1,6 @@
+{
+  "name": "Drive & Inbox Workspace Manager",
+  "description": "Organize Google Drive files with drag-and-drop, export file inventories to Google Sheets, analyze document contents, manage and archive Gmail threads, and track monthly tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
